@@ -1,0 +1,27 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ExternalDependencies">
+        <plugin id="de.espend.idea.laravel" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="web.server" />
+      </component>
+      <component name="PublishConfigData" autoUpload="Always">
+        <option name="myAutoUpload" value="ALWAYS" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>

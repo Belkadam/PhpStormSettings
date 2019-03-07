@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9dfc51ca-7fab-42d0-a937-70e25fbd57f8" name="loc" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/Applications/MAMP/htdocs" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
